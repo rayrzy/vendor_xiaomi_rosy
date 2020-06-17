@@ -1,6 +1,6 @@
 animation: 3 2 charger/battery_scale
 fail: charger/battery_fail
-percent_display: c 923 255 255 255 255 charger/battery_font
+percent_display: c 932 255 255 255 255 charger/battery_font
 
 frame: 500 0 16
 frame: 500 0 16
